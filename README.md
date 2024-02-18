@@ -1,5 +1,6 @@
 # Elf-runner
 My first video game, it looks horrible and the code is really bad, but you always need to start somewhere, right?
+The game is divided in 3 worlds with 10 levels each. 
 
 | World 1 | World 2 | World 3 |
 | :---:         |     :---:      |          :---: |
